@@ -1,1 +1,1 @@
-# Computational-fine-tuning-of--Secretase-modulators-deep-within-the-allosteric-cavity
+# Computational fine tuning of  γ-Secretase modulators deep within the allosteric cavity
